@@ -1,0 +1,20 @@
+{
+  "name": "project-takeoff",
+  "version": "1.0.0",
+  "description": "",
+  "main": "serv.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bengiudice/project-takeoff.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bengiudice/project-takeoff/issues"
+  },
+  "homepage": "https://github.com/bengiudice/project-takeoff#readme"
+}
