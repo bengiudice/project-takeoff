@@ -1,1 +1,1 @@
-web: sudo node serv.js
+web: node serv.js
